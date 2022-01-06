@@ -1,4 +1,0 @@
-# Daniel Martinez
-
-
-RFM Analysis
